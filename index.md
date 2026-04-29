@@ -3,8 +3,10 @@ layout: default
 title: Benvenuti
 ---
 
-# Benvenuti sulla Landing Page del Bartellini
-Questa è la pagina principale. Da qui puoi accedere alle sezioni dedicate ai due protagonisti.
+![](bartellini.jpg)
+
+# Benvenuti alla favolosa avventura del Bartellini
+Da qui puoi accedere alle sezioni dedicate ai due protagonisti.
 
 ### Scegli la tua destinazione:
 * [Vai alla scheda di Gabriele](gabri)
