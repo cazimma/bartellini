@@ -5,7 +5,7 @@ title: Tolo
 
 # Bartolomeo
 
-![](tolo.jpg)
+![](tolo-2.jpg)
 
 🇮🇹 
 
