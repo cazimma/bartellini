@@ -5,9 +5,11 @@ title: Benvenuti
 
 ![](bartellini.jpg)
 
-# Welcome to the marvelous adventure of Bartellini
+# Benvenuti alla favolosa avventura del Bartellini 
 
-A brief introduction of the grooms-to-be:
+Una squadra eterogenea quella che accompagna i futuri sposi, il più sereno è un orso. 
+
+Qui potete trovare una descrizione dei protagonisti:
 
 * [Gabri](gabri)
 * [Tolo](tolo)
