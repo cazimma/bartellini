@@ -70,7 +70,7 @@ In corso.
 
 ## Giorno 4 (2/5)
 
-In arrivo. 
+Per le ragazze dell'addio al nubilato con la maglietta del Barça: ci inviate il video del tiro di pallone? Contatto Instagram: [qui](https://www.instagram.com/cazimma?igsh=cnFpaXh4Zm52aTUy). 
 
 ## Giorno 5 (3/5)
 
